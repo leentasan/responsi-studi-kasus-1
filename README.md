@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : DELLA FEBI ALFIAN  
+NIU : 505892
+Sesi : JUMAT   
+Secret String : 6989322e854eed8dc323a65458f37aaffee7ea81343f6b8ac2c455ad4cb27e0d20250523021626
 
 ## Checklist Responsi
 
